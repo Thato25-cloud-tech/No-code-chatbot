@@ -17,12 +17,6 @@ Try it here: [Access the AI Chatbot](https://landbot.online/v3/H-3057189-T8E6YT4
 
 ---
 
-## 📸 Screenshots
-![Chat Start](screenshots/chat-start.png)  
-![Chat Flow](screenshots/chat-flow.png)  
-
----
-
 ## 🛠 How It Was Built
 - Platform: **Landbot** (No-code chatbot builder)  
 - Approach: Drag-and-drop conversation flow with conditional logic  
@@ -37,5 +31,4 @@ Try it here: [Access the AI Chatbot](https://landbot.online/v3/H-3057189-T8E6YT4
 
 ---
 
-## 📁 Repository Structure
 
